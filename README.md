@@ -3,15 +3,19 @@ Sebagai seorang analis data yang tertarik pada tren konsumen dan pengalaman peng
 Dalam melakukan sentimen analysis saya melakukan beberapa tahapan yaitu:
 
 **1. Data**
+
 Dalam melakukan pengambilan data saya melakukan scraping pada review tokopedia di aplikasi playstore, jumlah data yang saya ambil adalah 1000 data dari yang terbaru dan selanjutnya saya melakukan manual labelling dengan 0 dan 1 yang menandakan negative sentimen dan positive sentiment
 
 **2. Preprocessing**
+
 Dalam melakukan pembuatan model NLP maka tentu saja text atau data yang digunakan harus di preprocessing terlebih dahulu. Tahapan ini akan menghilangkan tanda baca, mengubah ke huruf kecil, menghilangkan stopword yang tidak informatif seperti kata hubung "dan".
 
 **3. Modeling**
+
 Dalam membuat model sentiment analysis digunakan 2 base model yaitu RNN dan LSTM, diperoleh LSTM sebagia base model terbaik lalu dilakukan improvement model dengan teknik transfer learning, penambahan layer, dan juga penambahan epoch. Best model memiliki nilai f1-score sebesar 84% dalam memprediksi negative sentiment dan 60% dalam memprediksi positive sentiment
 
 **Further improvement:**
+
 Untuk meningkatkan kemampuan model dalam melakukan prediksi sentiment negative maupun positive sebaiknya dilakukan training dengan data yang lebih banyak agar memiliki f1-score yang lebih baik
 
 
