@@ -16,6 +16,7 @@ Untuk meningkatkan kemampuan model dalam melakukan prediksi sentiment negative m
 
 
 Melalui pengumpulan dan analisis ribuan ulasan pengguna, saya dapat memperoleh wawasan yang dalam tentang bagaimana pengguna merasakan layanan dan pengalaman berbelanja di Tokopedia. Ada banyak aspek positif dan juga negatif yang dapat kita lihat pada wordcloud yang saya tampilkan di gambar
+
 Untuk sentimen negative pada tokopedia kebanyakan berkutat pada masalah dalam pengiriman, jika dilihat pada negative sentiment di wordcloud pengiriman, kurir, dan barang merupakan yang terbesar lalu disusul oleh aplikasi yang bisa jadi disebabkan karena masalah pada mobile app dari tokopedia. Pada positive sentiment yang menarik adalah kebanyakan hanya memberi kalimat yang ada di suggestion apabila memberikan bintang 5 seperti good,nice, ok dll sangat berbeda dengan negative sentiment yang langsung memberikan keluhannya, tetapi terdapat juga positive sentiment yang menyampaikan alasan mereka memberi sentiment yang positive misalnya kata seperti promo dan belanja
-Dari data analisa yang saya lakukan tokopedia dapat melakukan pembenahan dalam masalah pengiriman dan juga aplikasinya dengan harapan pengguna dapat lebih nyaman dalam berbelanja dan mendatangkan keuntungan yang lebih banyak untuk tokopedia.
-Saya berharap postingan ini memberikan gambaran pentingnya analisis sentimen dalam konteks layanan pelanggan dan pengalaman pengguna
+
+Dari data analisa yang saya lakukan tokopedia dapat melakukan pembenahan dalam masalah pengiriman dan juga aplikasinya dengan harapan pengguna dapat lebih nyaman dalam berbelanja dan mendatangkan keuntungan yang lebih banyak untuk tokopedia.Saya berharap postingan ini memberikan gambaran pentingnya analisis sentimen dalam konteks layanan pelanggan dan pengalaman pengguna
